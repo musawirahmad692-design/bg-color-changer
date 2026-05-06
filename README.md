@@ -1,1 +1,2 @@
 # bg-color-changer
+A Background Color Changer application is a simple tool that lets users change the background color of a screen, app, or image. It usually provides color options like palettes or color codes and updates the background instantly, helping with customization and better visual comfort.
